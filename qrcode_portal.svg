@@ -417,4 +417,17 @@
       <rect x="0" y="0" width="3" height="24"/>
       <rect x="21" y="0" width="3" height="24"/>
       <rect x="0" y="21" width="24" height="3"/>
-      <rect x="0" y="63" width="
+      <rect x="0" y="63" width="24" height="3"/>
+      <rect x="0" y="63" width="3" height="24"/>
+      <rect x="21" y="63" width="3" height="24"/>
+      <rect x="0" y="84" width="24" height="3"/>
+      <rect x="63" y="0" width="24" height="3"/>
+      <rect x="63" y="0" width="3" height="24"/>
+      <rect x="84" y="0" width="3" height="24"/>
+      <rect x="84" y="0" width="24" height="3"/>
+    </g>
+  </g>
+
+  <!-- Moldura rosa UV externa -->
+  <rect x="10" y="10" width="200" height="200" rx="5" fill="none" stroke="#ff4da6" stroke-width="2"/>
+</svg>
