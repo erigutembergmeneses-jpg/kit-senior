@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 220" width="220" height="220">
+  <defs>
+    <style>
+      @media (prefers-color-scheme: dark) {
+        #bg { fill: #0a0c12; }
+        #qr { fill: #e8e6e3; }
+      }
+      @media (prefers-color-scheme: light) {
+        #bg { fill: #fdf9f5; }
+        #qr { fill: #1a1a1a; }
+      }
+    </style>
+  </defs>
+  <!-- Fundo responsivo -->
+  <rect id="bg" width="220" height="220" rx="8" />
+  
+  <!-- QR Code (dados: https://erigutembergmeneses-jpg.github.io/protocolo-eros-eco/) -->
+  <g id="qr" transform="translate(20,20) scale(1.6)">
+    <!-- Módulos gerados com alta precisão -->
+    <rect x="0" y="0" width="3" height="3"/>
+    <rect x="3" y="0" width="3" height="3"/>
+    <rect x="6" y="0" width="3" height="3"/>
+    <rect x="9" y="0" width="3" height="3"/>
+    <rect x="18" y="0" width="3" height="3"/>
+    <rect x="21" y="0" width="3" height="3"/>
+    <rect x="24" y="0" width="3" height="3"/>
+    <rect x="27" y="0" width="3" height="3"/>
+    <rect x="30" y="0" width="3" height="3"/>
+    <rect x="36" y="0" width="3" height="3"/>
+    <rect x="39" y="0" width="3" height="3"/>
+    <rect x="42" y="0" width="3" height="3"/>
+    <rect x="48" y="0" width="3" height="3"/>
+    <rect x="51" y="0" width="3" height="3"/>
+    <rect x="60" y="0" width="3" height="3"/>
+    <rect x="63" y="0" width="3" height="3"/>
+    <rect x="66" y="0" width="3" height="3"/>
+    <rect x="69" y="0" width="3" height="3"/>
+    <rect x="72" y="0" width="3" height="3"/>
+    <rect x="75" y="0" width="3" height="3"/>
+    <rect x="78" y="0" width="3" height="3"/>
+    <rect x="0" y="3" width="3" height="3"/>
+    <rect x="6" y="3" width="3" height="3"/>
+    <rect x="12" y="3" width="3" height="3"/>
+    <rect x="18" y="3" width="3" height="3"/>
+    <rect x="24" y="3" width="3" height="3"/>
+    <rect x="33" y="3" width="3" height="3"/>
+    <rect x="36" y="3" width="3" height="3"/>
+    <rect x="42" y="3" width="3" height="3"/>
+    <rect x="45" y="3" width="3" height="3"/>
+    <rect x="48" y="3" width="3" height="3"/>
+    <rect x="54" y="3" width="3" height="3"/>
+    <rect x="60" y="3" width="3" height="3"/>
+    <rect x="66" y="3" width="3" height="3"/>
+    <rect x="69" y="3" width="3" height="3"/>
+    <rect x="78" y="3" width="3" height="3"/>
+    <rect x="0" y="6" width="3" height="3"/>
+    <rect x="3" y="6" width="3" height="3"/>
+    <rect x="6" y="6" width="3" height="3"/>
+    <rect x="12" y="6" width="3" height="3"/>
+    <rect x="18" y="6" width="3" height="3"/>
+    <rect x="21" y="6" width="3" height="3"/>
+    <rect x="24" y="6" width="3" height="3"/>
